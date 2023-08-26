@@ -1,0 +1,80 @@
+{
+  "pet": [
+    {
+      "id": 1,
+      "name": "oreo",
+      "customer": "jhoin",
+      "email": "j@gmail"
+    },
+    {
+      "id": 3,
+      "name": "sfdfdg",
+      "customer": "gg",
+      "email": "kaurh7053@gmail.com"
+    },
+    {
+      "id": 4,
+      "name": "sfsdf",
+      "customer": "ssssss",
+      "email": "kaurh7053@gmail.com"
+    },
+    {
+      "name": "sherru",
+      "email": "kaurh7053@gmail.com",
+      "customer": "chris",
+      "id": 5
+    },
+    {
+      "name": "ginger",
+      "email": "kaurh7053@gmail.com",
+      "customer": "g@gmai.com",
+      "id": 6
+    },
+    {
+      "name": "12fg",
+      "email": "kaurh7053@gmail.com",
+      "customer": "fgfgh",
+      "id": 7
+    },
+    {
+      "name": "sd",
+      "email": "sdv",
+      "customer": "sdfsd",
+      "id": 8
+    },
+    {
+      "name": "ddsf",
+      "email": "sdf",
+      "customer": "sdfsdf",
+      "id": 9
+    },
+    {
+      "name": "fsvxd",
+      "email": "kaurh7053@gmail.com",
+      "customer": "dsdv",
+      "id": 10
+    }
+  ],
+  "services": [
+    {
+      "id": 1,
+      "name": "jj",
+      "price": "jj@gmail.com"
+    },
+    {
+      "id": 2,
+      "name": "grooming",
+      "price": "12300"
+    },
+    {
+      "name": "grooming",
+      "price": "2345",
+      "id": 3
+    },
+    {
+      "name": "ssdf",
+      "price": "sdfsdf",
+      "id": 4
+    }
+  ]
+}
